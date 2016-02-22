@@ -1,0 +1,16 @@
+.menu-text{
+	width:20%;
+}
+.menu-text img{
+	width:10%;
+	height:auto;
+	
+}
+.menu-text span{
+	color:green;
+	margin-left:10%;
+}
+.menu-text span:last-child{
+	color:red;
+	margin-left:-1%;
+}
